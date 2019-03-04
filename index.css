@@ -1,0 +1,16 @@
+.navigation {
+  display: grid;
+  grid-template-columns: 80% 20%;
+}
+
+.content-controls {
+  text-align: right
+}
+
+.fa {
+  color: black
+}
+
+.card-footer {
+  text-align: center
+}
